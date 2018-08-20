@@ -1,0 +1,22 @@
+{
+  "name": "bachelorproef",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bundle.js",
+  "dependencies": {
+    "browserify": "^16.2.2",
+    "browserify-shim": "^3.8.14",
+    "ipfs": "^0.31.6",
+    "ipfs-api": "^24.0.0",
+    "jquery": "^3.3.1",
+    "jsencrypt": "^3.0.0-rc.1",
+    "multihashes": "^0.4.14",
+    "web3": "^1.0.0-beta.35"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
